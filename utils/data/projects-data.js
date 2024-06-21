@@ -30,7 +30,7 @@ export const projectsData = [
         description: 'Lead a web-based recommendation system with mood and genre-specific suggestions, an interactive MusicBot, and personalized recommendations based on previous searches. Created and optimized a sequential model for good recommendations, resulting in an 82% accuracy rate. Also designed a search engine recommendation system based on cosine similarity.',
         tools: ['Python','Django','ML','EDA','SQLLite','API', 'Bootstrap', 'SCSS'],
         code: 'https://github.com/shubham22122001/MusicLab',
-        role: 'Full Stack',
+        role: 'Full Stack and Machine learning',
         demo: '',
         image: realEstate,
     },
