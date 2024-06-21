@@ -52,7 +52,7 @@ export const projectsData = [
         code: 'https://github.com/shubham22122001/Finance_Master_MERN',
         demo: '',
         image: ayla,
-        role: 'Dull stack and Data Analysis',
+        role: 'Full stack and Data Analysis',
     },
     
     
