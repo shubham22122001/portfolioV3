@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'System Analyst',
     company: "HDFC Bank LTD.",
-    duration: "(July 2023 - Juky 2024)"
+    duration: "(July 2023 - July 2024)"
   },
   {
     id: 2,

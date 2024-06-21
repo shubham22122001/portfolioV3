@@ -9,6 +9,6 @@ export const personalData = {
   github: 'https://github.com/shubham22122001',
   linkedIn: 'https://www.linkedin.com/in/shubham-bhadra-4a1b121b1/',
   leetcode: 'https://leetcode.com/u/user9067bR/',
-  resume: 'https://drive.google.com/file/d/1YHh2cC328n-WWhXLLJ5YKp1HFbIJIyL7/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1Q11XYC0naFE-rHgwpB6MSRxCNDYigql9/view?usp=sharing',
   devUsername: "shubham10"
 }
