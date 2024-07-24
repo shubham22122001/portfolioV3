@@ -135,9 +135,9 @@ function HeroSection() {
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">AWS</span>
-                <span className="text-gray-400">{"',"}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Azure</span>
-                <span className="text-gray-400">{"',"}</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Google Cloud Engine</span>
                 <span className="text-gray-400">{"'],"}</span>
                 
