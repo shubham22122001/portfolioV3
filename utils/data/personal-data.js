@@ -9,6 +9,8 @@ export const personalData = {
   github: 'https://github.com/shubham22122001',
   linkedIn: 'https://www.linkedin.com/in/shubham-bhadra-4a1b121b1/',
   leetcode: 'https://leetcode.com/u/user9067bR/',
-  resume: 'https://drive.google.com/file/d/1Q11XYC0naFE-rHgwpB6MSRxCNDYigql9/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1OSgkRQdFWdoQ9sDEyzHs2wXnOLrllI88/view?usp=sharing',
+  resumeDA: 'https://drive.google.com/file/d/1DazKnU-krVBb4EQnTaH_ADPtSuT92XSb/view?usp=sharing',
+
   devUsername: "shubham10"
 }

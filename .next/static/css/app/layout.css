@@ -1825,6 +1825,14 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(237 233 254 / var(--tw-bg-opacity));
 }
+.bg-gray-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+.bg-gray-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+}
 .bg-\[linear-gradient\(90deg\2c \#281e57_0\%\2c \#201435_100\%\)\] {
   background-image: linear-gradient(90deg,#281e57 0%,#201435 100%);
 }
@@ -1937,6 +1945,10 @@ video {
 .py-\[1\.4rem\] {
   padding-top: 1.4rem;
   padding-bottom: 1.4rem;
+}
+.py-20 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 .pb-20 {
   padding-bottom: 5rem;
