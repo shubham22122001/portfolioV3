@@ -56,16 +56,6 @@ export const projectsData = [
     },
     {
         id: 6,
-        name: 'Uber Data Engineering - ETL Pipeline using GCP',
-        description: "This project focuses on analyzing Uber data to gain insights into ride patterns and trends using various tools and technologies, including Google Cloud Platform (GCP), Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The key objectives are to identify the top 10 pickup locations, analyze trips based on passenger count, and examine how the average fare amount varies by hour. ",
-        tools: ['Python', 'Google Cloud Platform (GCP)', 'Mage Data Pipeline Tool', 'BigQuery', 'Looker Studio'],
-        code: 'https://github.com/shubham22122001/Uber_Data_Engineering_Project',
-        demo: '',
-        image: ayla,
-        role: 'Data Engineering',
-    },
-    {
-        id: 7,
         name: 'Olympic Data Engineering - ETL Pipeline using Azure',
         description: "This project focuses on executing a comprehensive data engineering workflow of Olympic data on the Azure Cloud. The main tasks include extracting data from an API using Azure Data Factory, transforming the data with Azure Databricks, loading the transformed data into Azure Data Lake Storage, and performing data analysis using Azure Synapse Analytics",
         tools: ['Azure Data Factory', 'Azure Databricks', 'Azure Data Lake Storage', 'Apache Spark', 'Azure Synapse Analytics', 'Python', 'SQL'],
@@ -73,6 +63,18 @@ export const projectsData = [
         demo: '',
         image: ayla,
         role: 'Data Engineering',
+        
+    },
+    {
+        id: 7,
+        name: 'Uber Data Engineering - ETL Pipeline using GCP',
+        description: "This project focuses on analyzing Uber data to gain insights into ride patterns and trends using various tools and technologies, including Google Cloud Platform (GCP), Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The key objectives are to identify the top 10 pickup locations, analyze trips based on passenger count, and examine how the average fare amount varies by hour and Created an interactive dashboard in Looker Studio, visualizing trip statistics and identifying trends. Analyzed data for over 5,000 trips pinpointed the top  pickup locations in New York City.",
+        tools: ['Python', 'Google Cloud Platform (GCP)', 'Mage Data Pipeline Tool', 'BigQuery', 'Looker Studio'],
+        code: 'https://github.com/shubham22122001/Uber_Data_Engineering_Project',
+        demo: '',
+        image: ayla,
+        role: 'Data Engineering',
+        
     },
     
 ];
